@@ -11,6 +11,7 @@ module.exports = {
             const shopsWithProductsToSend = shopsWithProducts.map((item, index, arr) => {
                 return {
                     ...item,
+                    link: item.name.replace(/\s+/g, ''),
                     products: item.products.map((product) => {
                         return {
                             ...product.toJSON(),
