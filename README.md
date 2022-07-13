@@ -3,7 +3,7 @@ To run this application
 create `.env` file 
 and setup values for MONGO_URI and API_PORT.\
 Install dependencies using
-##`npm i`
+## `npm i`
 Run application using
 ## `npm start` 
 command.
