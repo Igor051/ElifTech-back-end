@@ -1,9 +1,8 @@
 ### This is the back-end part of the project
 To run this application
 create `.env` file 
-and setup values for MONGO_URI and API_PORT
-
-install dependencies using 
+and setup values for MONGO_URI and API_PORT.\
+Install dependencies using
 ##`npm i`
 Run application using
 ## `npm start` 
