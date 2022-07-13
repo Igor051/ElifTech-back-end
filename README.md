@@ -1,5 +1,11 @@
 ### This is the back-end part of the project
-You can run it using 
+To run this application
+create `.env` file 
+and setup values for MONGO_URI and API_PORT
+
+install dependencies using 
+##`npm i`
+Run application using
 ## `npm start` 
 command.
 
@@ -13,3 +19,4 @@ This application was deployed at heroku
 [https://github.com/Igor051/ElifTech-front-end](https://github.com/Igor051/ElifTech-front-end)
 ### Front-end part of the project was deployed at
 [https://eliftech-front-end.herokuapp.com/](https://eliftech-front-end.herokuapp.com/)
+
